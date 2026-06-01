@@ -1,0 +1,45 @@
+exploration_node:
+  ros__parameters:
+    use_sim_time: false
+    exploration_loop_rate: 1.0
+    goal_timeout: 60.0
+    failure_cooldown: 3.0
+    coverage_threshold: 1.01      # disable live coverage stop; finish when no reachable frontiers remain
+    no_goal_strike_limit: 8
+
+
+    # Per-algorithm parameters
+    strategy_params:
+      frontier:
+        min_frontier_size: 3
+        min_goal_distance: 0.3
+        clearance_cells: 2
+
+      bfs:
+        min_goal_distance: 0.3
+        min_frontier_size: 1
+        clearance_cells: 1
+        goal_standoff_cells: 2
+
+      information_gain:
+        sensor_range: 3.5          # scans beyond ~3.5m get less accurate and defined distance is enough for good results
+        min_frontier_size: 2
+        clearance_cells: 2
+        alpha: 0.7                 # weight: info gain vs travel cost (0=cost only, 1=info only)
+
+      rrt:
+        step_size: 0.4
+        max_iterations: 250
+        goal_bias: 0.1             # probability of biasing sample toward unknown space
+        sensor_range: 3.5
+        cost_weight: 1.0           # weight of navigation cost vs info gain in node scoring
+        clearance_cells: 2
+
+      voronoi:
+        sensor_range: 3.5
+        # h coefficient in U_f = I_f - h * N_f. =1 puts info and dist on
+        # equal footing after normalization
+        cost_weight: 1.0           # h parameter: weight of navigation cost vs info gain
+        min_ridge_dist: 4
+        min_frontier_size: 2
+        clearance_cells: 2

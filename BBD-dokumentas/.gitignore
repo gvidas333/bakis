@@ -1,0 +1,26 @@
+.DS_Store
+**/.DS_Store
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.run.xml
+*.synctex.gz
+*.toc
+*.out
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.bbl-SAVE-ERROR
+
+# Generated output
+*.pdf
+build/

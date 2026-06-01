@@ -1,0 +1,11 @@
+# Editors
+.vscode/
+.idea/
+.vs/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc

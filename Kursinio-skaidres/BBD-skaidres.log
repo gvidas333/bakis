@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.5.10)  31 MAY 2026 18:55
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.5.10)  1 JUN 2026 22:08
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/gvidasbacianskas/Documents/VU/BBD/Kursinio-skaidres/BBD-skaidres.tex
@@ -945,7 +945,7 @@ Package luatex.def Info: images/final/sysarch.png  used on input line 121.
  [4
 
 <./images/final/sysarch.png>]
-Underfull \hbox (badness 4144) in paragraph at lines 140--140
+Underfull \hbox (badness 4144) in paragraph at lines 141--141
 []|\TU/LatinModernSans(0)/m/n/8 Verti-na-mas tikėti-nas nau-jos in-for-ma-ci-jos kiekis ir
  []
 
@@ -955,17 +955,17 @@ Underfull \hbox (badness 4144) in paragraph at lines 140--140
 <images/final/kamb1_marks.jpg, id=81, 3035.34pt x 2276.505pt>
 File: images/final/kamb1_marks.jpg Graphic file (type jpg)
 <use images/final/kamb1_marks.jpg>
-Package luatex.def Info: images/final/kamb1_marks.jpg  used on input line 170.
+Package luatex.def Info: images/final/kamb1_marks.jpg  used on input line 171.
 (luatex.def)             Requested size: 112.22244pt x 84.16684pt.
 <images/final/kamb2_marks.jpg, id=82, 3035.34pt x 2276.505pt>
 File: images/final/kamb2_marks.jpg Graphic file (type jpg)
 <use images/final/kamb2_marks.jpg>
-Package luatex.def Info: images/final/kamb2_marks.jpg  used on input line 170.
+Package luatex.def Info: images/final/kamb2_marks.jpg  used on input line 171.
 (luatex.def)             Requested size: 112.22244pt x 84.16684pt.
 <images/final/kamb3_marks.jpg, id=83, 2276.505pt x 3035.34pt>
 File: images/final/kamb3_marks.jpg Graphic file (type jpg)
 <use images/final/kamb3_marks.jpg>
-Package luatex.def Info: images/final/kamb3_marks.jpg  used on input line 170.
+Package luatex.def Info: images/final/kamb3_marks.jpg  used on input line 171.
 (luatex.def)             Requested size: 72.25217pt x 96.33623pt.
  [6
 
@@ -975,7 +975,7 @@ Package luatex.def Info: images/final/kamb3_marks.jpg  used on input line 170.
 <images/final/1_kamb_map.png, id=101, 643.40375pt x 649.42625pt>
 File: images/final/1_kamb_map.png Graphic file (type png)
 <use images/final/1_kamb_map.png>
-Package luatex.def Info: images/final/1_kamb_map.png  used on input line 237.
+Package luatex.def Info: images/final/1_kamb_map.png  used on input line 238.
 (luatex.def)             Requested size: 102.05963pt x 103.00856pt.
  [8
 
@@ -983,7 +983,7 @@ Package luatex.def Info: images/final/1_kamb_map.png  used on input line 237.
 <images/final/2_kamb_map.png, id=111, 871.255pt x 467.7475pt>
 File: images/final/2_kamb_map.png Graphic file (type png)
 <use images/final/2_kamb_map.png>
-Package luatex.def Info: images/final/2_kamb_map.png  used on input line 281.
+Package luatex.def Info: images/final/2_kamb_map.png  used on input line 282.
 (luatex.def)             Requested size: 102.05963pt x 54.78546pt.
  [9
 
@@ -991,26 +991,26 @@ Package luatex.def Info: images/final/2_kamb_map.png  used on input line 281.
 <images/final/3_kamb_map.png, id=121, 877.2775pt x 359.3425pt>
 File: images/final/3_kamb_map.png Graphic file (type png)
 <use images/final/3_kamb_map.png>
-Package luatex.def Info: images/final/3_kamb_map.png  used on input line 325.
+Package luatex.def Info: images/final/3_kamb_map.png  used on input line 326.
 (luatex.def)             Requested size: 102.05963pt x 41.80328pt.
  [10
 
 <./images/final/3_kamb_map.png>] [11
 
 ]
-Overfull \hbox (17.35323pt too wide) in paragraph at lines 391--391
+Overfull \hbox (17.35323pt too wide) in paragraph at lines 392--392
  [] 
  []
 
 [12
 
 ]
-Overfull \hbox (4.91109pt too wide) in paragraph at lines 439--439
+Overfull \hbox (4.91109pt too wide) in paragraph at lines 440--440
  [] 
  []
 
 
-Overfull \hbox (5.29729pt too wide) in paragraph at lines 439--439
+Overfull \hbox (5.29729pt too wide) in paragraph at lines 440--440
  [] 
  []
 

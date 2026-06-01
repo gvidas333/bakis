@@ -1,6 +1,6 @@
 # Fdb version 4
-["lualatex"] 1780242949.91285 "/Users/gvidasbacianskas/Documents/VU/BBD/Kursinio-skaidres/BBD-skaidres.tex" "BBD-skaidres.pdf" "BBD-skaidres" 1780242951.77822 0
-  "/Users/gvidasbacianskas/Documents/VU/BBD/Kursinio-skaidres/BBD-skaidres.tex" 1780242949.61489 18538 d294c99ec7677b2ca70c0ff1a327dd21 ""
+["lualatex"] 1780340889.49365 "/Users/gvidasbacianskas/Documents/VU/BBD/Kursinio-skaidres/BBD-skaidres.tex" "BBD-skaidres.pdf" "BBD-skaidres" 1780340891.11788 0
+  "/Users/gvidasbacianskas/Documents/VU/BBD/Kursinio-skaidres/BBD-skaidres.tex" 1780340888.54457 18606 6dbe6b30e875e43ec0650bb2a2705630 ""
   "/Users/gvidasbacianskas/Library/texlive/2026basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bolditalic.luc" 1779804077.37872 136496 15f347d4258f183ffdc4c5084639eb63 ""
   "/Users/gvidasbacianskas/Library/texlive/2026basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-bold.luc" 1778413465.05038 128304 d63656cab47aebf8b6d4cb1d617ee2d5 ""
   "/Users/gvidasbacianskas/Library/texlive/2026basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-italic.luc" 1779804077.42932 135248 368b6812eeaa6d06b7c025cf48b74e0a ""
@@ -289,10 +289,10 @@
   "/usr/local/texlive/2026basic/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1740687098 13566 16df94dd2de231b2bca0aaa0190941fe ""
   "/usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1778413776 82229 fbaacbdd47589e58a8bfa27dfbf49834 ""
   "/usr/local/texlive/2026basic/texmf-var/web2c/luahbtex/lualatex.fmt" 1778413781 5673520 9d2c0af994d8e5327c75106c53304277 ""
-  "BBD-skaidres.aux" 1780242951.60552 2496 4523eb6e5bd813815247b99136e2ddf8 "lualatex"
-  "BBD-skaidres.nav" 1780242951.60618 1667 223530e0d280496bcaab89de82b2e7ab "lualatex"
-  "BBD-skaidres.out" 1780242950.92756 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "BBD-skaidres.tex" 1780242949.61489 18538 d294c99ec7677b2ca70c0ff1a327dd21 ""
+  "BBD-skaidres.aux" 1780340890.94467 2496 4523eb6e5bd813815247b99136e2ddf8 "lualatex"
+  "BBD-skaidres.nav" 1780340890.94537 1667 223530e0d280496bcaab89de82b2e7ab "lualatex"
+  "BBD-skaidres.out" 1780340890.30527 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "BBD-skaidres.tex" 1780340888.54457 18606 6dbe6b30e875e43ec0650bb2a2705630 ""
   "VUMIF.sty" 1779787078 1835 bb9b412b06b50e5cdf0bc1601fba471a ""
   "images/final/1_kamb_map.png" 1779800723.10937 47419 c81296e9bf67f6cba0e3e30c25456a91 ""
   "images/final/2_kamb_map.png" 1779800723.1068 22192 31969bdeab500da875813407bce920eb ""

@@ -125,13 +125,14 @@
     \begin{table}
         \centering
         \scriptsize
+        \renewcommand{\arraystretch}{1.4} % default = 1.0
         \begin{tabular}{p{0.32\textwidth}p{0.58\textwidth}}
             \toprule
             \textbf{Algoritmas} & \textbf{Tikslo parinkimo principas} \\
             \midrule
             BFS & Paieška per žinomą laisvą erdvę iki pirmos tinkamos viršūnės. \\
             Artimiausia riba & Pasirenkama mažiausiu atstumu pasiekiama riba. \\
-            RRT & Atsitiktinai plečiamas medis, kandidatai vertinami pagal informaciją ir kainą. \\
+            RRT & Atsitiktinai plečiamas medis, kandidatai vertinami pagal informaciją ir judėjimo kainą. \\
             Informacijos prieaugis & Vertinamas tikėtinas naujos informacijos kiekis ir judėjimo kaina. \\
             Voronoi & Naudojama laisvos erdvės geometrinė struktūra ir kelias per Voronoi keteras. \\
             \bottomrule

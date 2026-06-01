@@ -1,0 +1,14 @@
+.DS_Store
+**/.DS_Store
+
+# LaTeX build/cache output
+**/.tex-cache/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc

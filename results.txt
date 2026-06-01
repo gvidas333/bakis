@@ -1,0 +1,429 @@
+1. Pirmo Paprasto Kambario Eksperimentai (7m x 6,5m)
+
+BFS
+1.
+   Time: 315.7s
+   Coverage: 99.8%
+   Path length: 17.66m
+   Goals: 16 sent, 13 reached, 3 failed
+   CPU: avg 72.8%, peak 101.1% (across 4 cores; 100% = one full core)
+   Memory: avg 66.5 MB, peak 67.5 MB
+
+2.
+   Time: 165.8s
+   Coverage: 95.2%
+   Path length: 13.24m
+   Goals: 10 sent, 10 reached, 0 failed
+   CPU: avg 74.4%, peak 101.0% (across 4 cores; 100% = one full core)
+   Memory: avg 67.2 MB, peak 68.3 MB
+
+3.
+   Time: 238.3s
+   Coverage: 95.4%
+   Path length: 17.04m
+   Goals: 10 sent, 10 reached, 0 failed
+   CPU: avg 69.5%, peak 95.9% (across 4 cores; 100% = one full core)
+   Memory: avg 66.3 MB, peak 67.5 MB
+
+4.
+   Time: 257.8s
+   Coverage: 95.9%
+   Path length: 21.10m
+   Goals: 10 sent, 9 reached, 1 failed
+   CPU: avg 73.7%, peak 100.2% (across 4 cores; 100% = one full core)
+   Memory: avg 66.4 MB, peak 67.4 MB
+
+Frontier
+1.
+   Time: 223.2s
+   Coverage: 95.1%
+   Path length: 17.45m
+   Goals: 11 sent, 11 reached, 0 failed
+   CPU: avg 75.9%, peak 82.2% (across 4 cores; 100% = one full core)
+   Memory: avg 65.6 MB, peak 65.7 MB
+
+2.
+   Time: 137.2s
+   Coverage: 95.0%
+   Path length: 11.10m
+   Goals: 7 sent, 7 reached, 0 failed
+   CPU: avg 72.0%, peak 76.7% (across 4 cores; 100% = one full core)
+   Memory: avg 65.7 MB, peak 65.8 MB
+
+3.
+   Time: 263.2s
+   Coverage: 95.5%
+   Path length: 15.76m
+   Goals: 9 sent, 6 reached, 3 failed
+   CPU: avg 70.4%, peak 78.0% (across 4 cores; 100% = one full core)
+   Memory: avg 65.8 MB, peak 65.9 MB
+
+4.
+
+
+
+InfoGain 
+1.
+   Time: 232.1s
+   Coverage: 95.2%
+   Path length: 22.09m
+   Goals: 10 sent, 10 reached, 0 failed
+   CPU: avg 76.3%, peak 103.5% (across 4 cores; 100% = one full core)
+   Memory: avg 66.7 MB, peak 66.8 MB
+
+2.
+   Time: 215.2s
+   Coverage: 95.4%
+   Path length: 15.19m
+   Goals: 8 sent, 5 reached, 4 failed
+   CPU: avg 78.7%, peak 104.6% (across 4 cores; 100% = one full core)
+   Memory: avg 66.8 MB, peak 66.9 MB
+
+3.
+   Time: 291.1s
+   Coverage: 95.2%
+   Path length: 18.92m
+   Goals: 10 sent, 7 reached, 4 failed
+   CPU: avg 72.8%, peak 101.7% (across 4 cores; 100% = one full core)
+   Memory: avg 66.5 MB, peak 66.7 MB
+
+4.
+   Time: 230.2s
+   Coverage: 95.6%
+   Path length: 15.84m
+   Goals: 7 sent, 5 reached, 2 failed
+   CPU: avg 73.1%, peak 107.1% (across 4 cores; 100% = one full core)
+   Memory: avg 66.9 MB, peak 67.2 MB
+
+
+RRT
+1.
+   Time: 134.4s
+   Coverage: 94.5%
+   Path length: 11.72m
+   Goals: 8 sent, 8 reached, 0 failed
+   CPU: avg 73.8%, peak 103.1% (across 4 cores; 100% = one full core)
+   Memory: avg 66.5 MB, peak 66.8 MB
+
+2. 
+   Time: 192.7s
+   Coverage: 95.2%
+   Path length: 13.97m
+   Goals: 6 sent, 4 reached, 2 failed
+   CPU: avg 75.5%, peak 102.1% (across 4 cores; 100% = one full core)
+   Memory: avg 66.9 MB, peak 66.9 MB
+
+3.
+   Time: 236.4s
+   Coverage: 94.9%
+   Path length: 14.88m
+   Goals: 8 sent, 7 reached, 1 failed
+   CPU: avg 72.2%, peak 101.9% (across 4 cores; 100% = one full core)
+   Memory: avg 66.3 MB, peak 66.8 MB
+
+4.
+   Time: 245.4s
+   Coverage: 95.6%
+   Path length: 25.15m
+   Goals: 8 sent, 8 reached, 0 failed
+   CPU: avg 74.0%, peak 105.4% (across 4 cores; 100% = one full core)
+   Memory: avg 66.7 MB, peak 66.8 MB
+
+Voronoi
+1.
+   Time: 203.4s
+   Coverage: 95.2%
+   Path length: 19.45m
+   Goals: 6 sent, 5 reached, 2 failed
+   CPU: avg 74.8%, peak 102.6% (across 4 cores; 100% = one full core)
+   Memory: avg 96.3 MB, peak 98.1 MB
+
+2.
+   Time: 163.4s
+   Coverage: 95.4%
+   Path length: 12.74m
+   Goals: 8 sent, 8 reached, 0 failed
+   CPU: avg 78.5%, peak 104.1% (across 4 cores; 100% = one full core)
+   Memory: avg 96.0 MB, peak 97.5 MB
+
+3.
+   Time: 238.4s
+   Coverage: 95.2%
+   Path length: 18.00m
+   Goals: 7 sent, 7 reached, 0 failed
+   CPU: avg 72.7%, peak 102.0% (across 4 cores; 100% = one full core)
+   Memory: avg 95.1 MB, peak 97.1 MB
+
+4.
+   Time: 198.6s
+   Coverage: 95.2%
+   Path length: 19.42m
+   Goals: 6 sent, 6 reached, 0 failed
+   CPU: avg 75.1%, peak 104.1% (across 4 cores; 100% = one full core)
+   Memory: avg 95.4 MB, peak 97.6 MB
+
+
+2. Antrojo Kambario Eksperimentai (3,5x3,5 tunelis 0,5x3 kamb 3x2,5)
+
+BFS
+1.
+   Time: 179.8s
+   Coverage: 97.6%
+   Path length: 10.99m
+   Goals: 14 sent, 14 reached, 0 failed
+   CPU: avg 73.3%, peak 100.0% (across 4 cores; 100% = one full core)
+   Memory: avg 65.8 MB, peak 67.1 MB
+
+2.
+   Time: 403.7s
+   Coverage: 98.7%
+   Path length: 19.72m
+   Goals: 15 sent, 9 reached, 6 failed
+   CPU: avg 78.4%, peak 102.8% (across 4 cores; 100% = one full core)
+   Memory: avg 66.7 MB, peak 67.2 MB
+
+3.
+   Time: 492.7s
+   Coverage: 98.8%
+   Path length: 29.35m
+   Goals: 29 sent, 27 reached, 3 failed
+   CPU: avg 76.8%, peak 102.0% (across 4 cores; 100% = one full core)
+   Memory: avg 66.6 MB, peak 67.3 MB
+
+
+Frontier
+1.
+   Time: 146.1s
+   Coverage: 98.4%
+   Path length: 11.35m
+   Goals: 11 sent, 11 reached, 0 failed
+   CPU: avg 67.9%, peak 74.0% (across 4 cores; 100% = one full core)
+   Memory: avg 65.5 MB, peak 65.8 MB
+
+2.
+   Time: 181.1s
+   Coverage: 98.4%
+   Path length: 17.15m
+   Goals: 9 sent, 9 reached, 0 failed
+   CPU: avg 70.1%, peak 87.3% (across 4 cores; 100% = one full core)
+   Memory: avg 65.8 MB, peak 66.3 MB
+
+3.
+   Time: 159.1s
+   Coverage: 98.4%
+   Path length: 12.88m
+   Goals: 13 sent, 13 reached, 0 failed
+   CPU: avg 66.5%, peak 72.8% (across 4 cores; 100% = one full core)
+   Memory: avg 65.7 MB, peak 65.9 MB
+
+InfoGain
+1.
+   Time: 162.1s
+   Coverage: 98.0%
+   Path length: 11.90m
+   Goals: 11 sent, 11 reached, 0 failed
+   CPU: avg 71.0%, peak 101.9% (across 4 cores; 100% = one full core)
+   Memory: avg 66.6 MB, peak 66.9 MB
+
+2.
+   Time: 218.1s
+   Coverage: 98.6%
+   Path length: 16.48m
+   Goals: 12 sent, 12 reached, 0 failed
+   CPU: avg 69.3%, peak 100.9% (across 4 cores; 100% = one full core)
+   Memory: avg 66.7 MB, peak 67.0 MB
+
+3.
+   Time: 138.1s
+   Coverage: 98.6%
+   Path length: 12.31m
+   Goals: 9 sent, 9 reached, 0 failed
+   CPU: avg 69.8%, peak 101.6% (across 4 cores; 100% = one full core)
+   Memory: avg 66.7 MB, peak 66.9 MB
+
+
+RRT
+1.
+   Time: 140.4s
+   Coverage: 97.8%
+   Path length: 11.34m
+   Goals: 8 sent, 8 reached, 0 failed
+   CPU: avg 72.0%, peak 102.0% (across 4 cores; 100% = one full core)
+   Memory: avg 66.7 MB, peak 67.1 MB
+
+2.
+   Time: 224.4s
+   Coverage: 98.5%
+   Path length: 16.53m
+   Goals: 9 sent, 8 reached, 1 failed
+   CPU: avg 70.9%, peak 101.4% (across 4 cores; 100% = one full core)
+   Memory: avg 66.8 MB, peak 66.9 MB
+
+3.
+   Time: 245.3s
+   Coverage: 98.6%
+   Path length: 25.00m
+   Goals: 11 sent, 10 reached, 2 failed
+   CPU: avg 75.1%, peak 110.6% (across 4 cores; 100% = one full core)
+   Memory: avg 66.7 MB, peak 66.7 MB
+
+
+Voronoi
+1.
+   Time: 210.3s
+   Coverage: 98.5%
+   Path length: 17.80m
+   Goals: 10 sent, 10 reached, 0 failed
+   CPU: avg 71.5%, peak 101.4% (across 4 cores; 100% = one full core)
+   Memory: avg 94.2 MB, peak 94.9 MB
+
+2.
+   Time: 280.3s
+   Coverage: 98.4%
+   Path length: 21.55m
+   Goals: 15 sent, 15 reached, 0 failed
+   CPU: avg 71.8%, peak 103.5% (across 4 cores; 100% = one full core)
+   Memory: avg 95.2 MB, peak 96.2 MB
+
+3.
+   Time: 183.4s
+   Coverage: 98.6%
+   Path length: 16.66m
+   Goals: 6 sent, 4 reached, 3 failed
+   CPU: avg 69.8%, peak 102.5% (across 4 cores; 100% = one full core)
+   Memory: avg 94.8 MB, peak 95.3 MB
+
+
+
+3. Treciojo kambario (ilgas koridorius) 24m ilgio 2.5m plocio
+
+BFS
+1.
+   Time: 549.8s
+   Coverage: 100.0%
+   Path length: 41.29m
+   Goals: 31 sent, 27 reached, 5 failed
+   CPU: avg 83.4%, peak 103.9% (across 4 cores; 100% = one full core)
+   Memory: avg 67.4 MB, peak 70.6 MB
+
+2.
+   Time: 367.6s
+   Coverage: 100.0%
+   Path length: 32.58m
+   Goals: 26 sent, 26 reached, 0 failed
+   CPU: avg 85.2%, peak 103.5% (across 4 cores; 100% = one full core)
+   Memory: avg 67.2 MB, peak 70.3 MB
+
+3.
+   Time: 683.5s
+   Coverage: 100.0%
+   Path length: 39.36m
+   Goals: 63 sent, 63 reached, 0 failed
+   CPU: avg 84.1%, peak 103.1% (across 4 cores; 100% = one full core)
+   Memory: avg 67.8 MB, peak 71.7 MB
+
+
+Frontier 
+1.
+   Time: 488.5s
+   Coverage: 100.0%
+   Path length: 36.79m
+   Goals: 29 sent, 24 reached, 6 failed
+   CPU: avg 73.5%, peak 91.7% (across 4 cores; 100% = one full core)
+   Memory: avg 66.0 MB, peak 66.3 MB
+
+2.
+   Time: 281.6s
+   Coverage: 99.6%
+   Path length: 27.89m
+   Goals: 19 sent, 19 reached, 0 failed
+   CPU: avg 83.1%, peak 104.1% (across 4 cores; 100% = one full core)
+   Memory: avg 66.7 MB, peak 67.6 MB
+
+3.
+   Time: 258.5s
+   Coverage: 100.0%
+   Path length: 30.38m
+   Goals: 11 sent, 9 reached, 3 failed
+   CPU: avg 69.1%, peak 101.9% (across 4 cores; 100% = one full core)
+   Memory: avg 66.4 MB, peak 67.9 MB
+
+
+InfoGain
+1.
+   Time: 282.4s
+   Coverage: 100.0%
+   Path length: 32.83m
+   Goals: 13 sent, 13 reached, 0 failed
+   CPU: avg 79.3%, peak 101.6% (across 4 cores; 100% = one full core)
+   Memory: avg 66.7 MB, peak 67.0 MB
+
+2.
+   Time: 268.5s
+   Coverage: 100.0%
+   Path length: 26.13m
+   Goals: 13 sent, 13 reached, 0 failed
+   CPU: avg 73.5%, peak 102.1% (across 4 cores; 100% = one full core)
+   Memory: avg 67.3 MB, peak 68.2 MB
+
+3.
+   Time: 226.4s
+   Coverage: 99.9%
+   Path length: 22.88m
+   Goals: 10 sent, 9 reached, 1 failed
+   CPU: avg 69.7%, peak 101.2% (across 4 cores; 100% = one full core)
+   Memory: avg 67.8 MB, peak 68.7 MB
+
+
+RRT
+1.
+   Time: 680.7s
+   Coverage: 99.5%
+   Path length: 59.13m
+   Goals: 37 sent, 27 reached, 12 failed
+   CPU: avg 88.0%, peak 107.5% (across 4 cores; 100% = one full core)
+   Memory: avg 68.1 MB, peak 69.4 MB
+
+2.
+   Time: 335.9s
+   Coverage: 99.8%
+   Path length: 32.79m
+   Goals: 15 sent, 15 reached, 0 failed
+   CPU: avg 84.8%, peak 103.3% (across 4 cores; 100% = one full core)
+   Memory: avg 67.7 MB, peak 68.6 MB
+
+3.
+Padejus per viduri nuejo i viena puse, paliko siek tiek neisnagrineta, nuejo i kita puse ir nebegrizo. Paliko gabaliuka neisnagrineta.
+
+   Time: 239.5s
+   Coverage: 99.8%
+   Path length: 23.35m
+   Goals: 12 sent, 12 reached, 0 failed
+   CPU: avg 72.1%, peak 102.0% (across 4 cores; 100% = one full core)
+   Memory: avg 67.5 MB, peak 67.9 MB
+
+
+Voronoi
+1.
+   Time: 697.2s
+   Coverage: 99.9%
+   Path length: 60.62m
+   Goals: 34 sent, 30 reached, 6 failed
+   CPU: avg 88.5%, peak 105.0% (across 4 cores; 100% = one full core)
+   Memory: avg 98.8 MB, peak 104.9 MB
+
+2.
+   Time: 387.5s
+   Coverage: 100.0%
+   Path length: 37.81m
+   Goals: 17 sent, 15 reached, 4 failed
+   CPU: avg 68.0%, peak 103.9% (across 4 cores; 100% = one full core)
+   Memory: avg 99.1 MB, peak 104.7 MB
+
+3.
+   Time: 619.0s
+   Coverage: 100.0%
+   Path length: 65.06m
+   Goals: 18 sent, 15 reached, 7 failed
+   CPU: avg 85.4%, peak 103.1% (across 4 cores; 100% = one full core)
+   Memory: avg 97.0 MB, peak 99.9 MB
